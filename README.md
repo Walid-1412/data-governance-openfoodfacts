@@ -81,17 +81,18 @@ documentation, audit qualité et visualisation.
 ---
 
 ## 📁 Structure du projet
+
 data-governance-openfoodfacts/
-│
-├── README.md
-├── data_dictionary.csv
-├── audit_qualite.csv
-└── screenshots/
-├── nutriscore_distribution.png
-├── sucres_par_categorie.png
-└── additifs_par_nutriscore.png
+
+- README.md
+- data_dictionary.csv
+- audit_qualite.csv
+- screenshots/
+- nutriscore_distribution.png
+- sucres_par_categorie.png
+- additifs_par_nutriscore.png
 ---
 
 ## 👤 Auteur
 **Walid Larbi** — Étudiant en Master Data Management · Paris School of Business  
-[LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/walid-larbi/)) · [GitHub](https://github.com/ton-compte)
+[LinkedIn](https://www.linkedin.com/in/walid-larbi/) · [GitHub](https://github.com/ton-compte)
